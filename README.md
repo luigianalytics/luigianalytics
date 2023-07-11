@@ -12,7 +12,7 @@
 
 👨🏼‍💻 Me encuentro trabajando hace poco más de 4 años dentro de la industria de IT, más precisamente en el rubro de Data. Esto me permitió ganar considerable experiencia para trabajar globalmente con múltiples stakeholders al definir problemas, obtener data, desarrollar modelos end-to-end de ML, análisis de datos y visualización.
 
-🎥 Por otra parte, realmente disfruto enseñar. Solía dar clases en la Universidad Nacional de Córdoba (UNC). Por esta razón decidí comenzar mi camino como **Creador de Contenido de Data** en múltiples plataformas como Instagram, YouTube, TikTok. My portfolio is a representation of some projects I usually prepare to share with my online audience, guiding them from the very beginning of the project (finding diverse datasets), defining the scope of the problem, running some exploratory analysis and finally shaping ML models. 
+🎥 Por otra parte, realmente disfruto enseñar. Solía dar clases en la Universidad Nacional de Córdoba (UNC). Por esta razón decidí comenzar mi camino como **Creador de Contenido de Data** en múltiples plataformas como Instagram, YouTube, TikTok. 
 
 <br />
 
@@ -23,8 +23,8 @@
 
 <h2 align="left">Contacto</h3>
 
-- 🚀 I’m currently working at **Expedia Group**
+- 🚀 Actualmente me encuentro trabajando en **Expedia Group**
 
-- 📫 Email me at **contacto.luigianalytics@gmail.com**
+- 📫 Contáctame en el siguiente email **contacto.luigianalytics@gmail.com**
 
-- 🙋🏼‍♂️ Networking? Add me on LinkedIn: www.linkedin.com/in/luisezequielmunoz
+- 🙋🏼‍♂️ Networking? Agrégame en LinkedIn: www.linkedin.com/in/luisezequielmunoz
