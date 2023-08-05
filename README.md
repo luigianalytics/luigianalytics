@@ -8,7 +8,7 @@
 
 👋🏻 *Hello, Hola, Ciao, Bonjour.* 
 
-📚 Soy Luigi y trabajo como Full Stack Data Scientist. Nacido en Argentina y actualmente viviendo en Londres, UK. Habiéndome graduado de un **Master en Management & Data**, sumado a mi carrera de grado en la rama de **Ciencias Económicas**, logré fortalecer conocimientos teóricos y prácticos vinculados con la rama de Data Science.
+📚 Soy Luigi y trabajo como Full Stack Data Scientist. Nacido en Argentina y actualmente viviendo en Londres, UK. 
 
 👨🏼‍💻 Me encuentro trabajando hace poco más de 4 años dentro de la industria de IT, más precisamente en el rubro de Data. Esto me permitió ganar considerable experiencia para trabajar globalmente con múltiples stakeholders al definir problemas, obtener data, desarrollar modelos end-to-end de ML, análisis de datos y visualización.
 
