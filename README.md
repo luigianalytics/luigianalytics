@@ -8,9 +8,9 @@
 
 👋🏻 *Hello, Hola, Ciao, Bonjour.* 
 
-📚 Soy Luigi y trabajo como Full Stack Data Scientist. Nacido en Argentina y actualmente viviendo en Londres, UK. 
+📚 Soy Luigi y trabajo como Full Stack Data Scientist. Me especializo en **Experimentación e Inferencia Causal** aplicado a **Producto & Marketing Analytics**.
 
-👨🏼‍💻 Me encuentro trabajando hace poco más de 4 años dentro de la industria de IT, más precisamente en el rubro de Data. Esto me permitió ganar considerable experiencia para trabajar globalmente con múltiples stakeholders al definir problemas, obtener data, desarrollar modelos end-to-end de ML, análisis de datos y visualización.
+👨🏼‍💻 Tengo más de **6 años de experiencia** dentro de la industria de IT, más precisamente en el rubro de Data. Esto me permitió ganar considerable experiencia para trabajar globalmente con múltiples stakeholders al definir problemas, obtener data, desarrollar modelos end-to-end de ML, análisis de datos y visualización.
 
 🎥 Por otra parte, realmente disfruto enseñar. Solía dar clases en la Universidad Nacional de Córdoba (UNC). Por esta razón decidí comenzar mi camino como **Creador de Contenido de Data** en múltiples plataformas como Instagram, YouTube, TikTok. 
 
@@ -23,7 +23,7 @@
 
 <h2 align="left">Contacto</h3>
 
-- 🚀 Actualmente me encuentro trabajando en **Expedia Group**
+- 🚀 Actualmente me encuentro trabajando en **Expedia Group** como **Senior Data Scientist**
 
 - 📫 Contáctame en el siguiente email **contacto.luigianalytics@gmail.com**
 
